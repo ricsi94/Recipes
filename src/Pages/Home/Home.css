@@ -1,0 +1,3 @@
+.card:has(:hover, :focus) {
+	--img-size: 1.1;
+}

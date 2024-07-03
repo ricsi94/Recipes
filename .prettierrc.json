@@ -1,0 +1,9 @@
+{
+	"printWidth": 100,
+	"bracketSpacing": true,
+	"useTabs": true,
+	"semi": false,
+	"trailingComma": "es5",
+	"jsxBracketSameLine": false,
+	"arrowParens": "always"
+}
